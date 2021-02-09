@@ -1,1 +1,1 @@
-# cinepolis-desktop
+# Cinépolis
